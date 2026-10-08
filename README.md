@@ -33,4 +33,4 @@ Arc Raiders and its artwork are the property of [Embark Studios](https://www.emb
 
 ## License
 
-The theme files are released under the [MIT License](LICENSE). The wallpapers are not covered (see above).
+The theme files are released under the [MIT License](LICENSE). The wallpapers are not covered (see above and [NOTICE](NOTICE)).

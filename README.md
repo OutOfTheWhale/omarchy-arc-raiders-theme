@@ -25,7 +25,7 @@ Or open the Omarchy menu and go to **Install → Style → Theme**, then paste t
 | Cyan       | `#6de3ef` |
 | Magenta    | `#ff7edb` |
 
-The theme also includes 17 wallpapers and the `Yaru-magenta` icon theme.
+The theme also includes 23 wallpapers and the `Yaru-magenta` icon theme.
 
 ## Credits
 
